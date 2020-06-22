@@ -1,0 +1,24 @@
+**1.1** Is Unique: Implement an algorithm to determine if a string has all unique characters. What if you
+cannot use additional data structures?
+
+<details>
+<summary>Hint 1 (#44)</summary>
+
+<p>Try a hash table.</p>
+</details>  
+
+<details>
+<summary>Hint 2 (#117)</summary>
+
+<p>Could a bit vector be useful?</p>
+</details>  
+
+<details>
+<summary>Hint 3 (#132)</summary>
+
+<p>Can you solve it in O(N log N) time? What might a solution like that look like?</p>
+</details>  
+
+
+
+#44, #117, #132
