@@ -25,6 +25,15 @@ Some Reading about bit manipulation:
 * Bitset vs Primitive bit manipulation https://imagenious.wordpress.com/2008/02/05/java-bitset-vs-primitive/
 
 
-List of Questions:
+<br/>
+**List of Questions:**
 
-* [Chapter 01 Arrays and Strings](https://github.com/javaci-net/CtCIStudy/blob/master/src/ch01ArraysAndStrings/Q01_01_Is_Unique/Q01_01.md)
+
+<details>
+<summary>Chapter 01 Arrays and Strings</summary>
+
+<p>
+	* [01 Is Unique](https://github.com/javaci-net/CtCIStudy/blob/master/src/ch01ArraysAndStrings/Q01_01_Is_Unique/Q01_01.md)
+</p>
+</details>  
+	
