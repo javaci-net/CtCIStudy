@@ -31,7 +31,9 @@ LIST OF QUESTIONS:
 <summary>Chapter 01 Arrays and Strings</summary>
 
 <p>
-	<a href="https://github.com/javaci-net/CtCIStudy/blob/master/src/ch01ArraysAndStrings/Q01_01_Is_Unique/Q01_01.md"> 01 Is Unique</a> 
+	<ul>
+	  <li><a href="https://github.com/javaci-net/CtCIStudy/blob/master/src/ch01ArraysAndStrings/Q01_01_Is_Unique/Q01_01.md"> 01 Is Unique</a></li>
+	</ul>
 </p>
 </details>  
 	
