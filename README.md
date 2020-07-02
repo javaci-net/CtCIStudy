@@ -35,12 +35,12 @@ LIST OF QUESTIONS:
 	  <li><a href="https://github.com/javaci-net/CtCIStudy/blob/master/src/ch01ArraysAndStrings/Q01_01_Is_Unique/Q01_01.md"> 01 Is Unique</a></li>
 	  <li><a href="https://github.com/javaci-net/CtCIStudy/blob/master/src/ch01ArraysAndStrings/Q01_02_Check_Permutation/Q01_02.md"> 02 Check Permutation</a></li>
 	  <li><a href="https://github.com/javaci-net/CtCIStudy/blob/master/src/ch01ArraysAndStrings/Q01_03_URLify/Q01_03.md"> 03 URLify</a></li>
-	  <li><a href="https://github.com/javaci-net/CtCIStudy/blob/master/src/ch01ArraysAndStrings/Q01_"> 04 Palindrome Permutation</a></li>
-	  <li><a href="https://github.com/javaci-net/CtCIStudy/blob/master/src/ch01ArraysAndStrings/Q01_"> 05 One Away</a></li>
-	  <li><a href="https://github.com/javaci-net/CtCIStudy/blob/master/src/ch01ArraysAndStrings/Q01_"> 06 String Compression</a></li>
-	  <li><a href="https://github.com/javaci-net/CtCIStudy/blob/master/src/ch01ArraysAndStrings/Q01_"> 07 Rotate Matrix</a></li>
-	  <li><a href="https://github.com/javaci-net/CtCIStudy/blob/master/src/ch01ArraysAndStrings/Q01_"> 08 Zero Matrix</a></li>
-	  <li><a href="https://github.com/javaci-net/CtCIStudy/blob/master/src/ch01ArraysAndStrings/Q01_"> 09 String Rotation</a></li>
+	  <li><a href="https://github.com/javaci-net/CtCIStudy/blob/master/src/ch01ArraysAndStrings/Q01_04_Palindrome_Permutation/Q01_04.md"> 04 Palindrome Permutation</a></li>
+	  <li><a href="https://github.com/javaci-net/CtCIStudy/blob/master/src/ch01ArraysAndStrings/Q01_05_One_Away/Q01_05.md"> 05 One Away</a></li>
+	  <li><a href="https://github.com/javaci-net/CtCIStudy/blob/master/src/ch01ArraysAndStrings/Q01_06_String_Compression/Q01_06.md"> 06 String Compression</a></li>
+	  <li><a href="https://github.com/javaci-net/CtCIStudy/blob/master/src/ch01ArraysAndStrings/Q01_07_Rotate_Matrix/Q01_07.md"> 07 Rotate Matrix</a></li>
+	  <li><a href="https://github.com/javaci-net/CtCIStudy/blob/master/src/ch01ArraysAndStrings/Q01_08_Zero_Matrix/Q01_08.md"> 08 Zero Matrix</a></li>
+	  <li><a href="https://github.com/javaci-net/CtCIStudy/blob/master/src/ch01ArraysAndStrings/Q01_09_String_Rotation/Q01_09.md"> 09 String Rotation</a></li>
 	</ul>
 </p>
 </details>  
