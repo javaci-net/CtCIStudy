@@ -1,4 +1,4 @@
-package ch01ArraysAndStrings.Q1_02_Check_Permutation;
+package ch01ArraysAndStrings.Q01_02_Check_Permutation;
 
 public class QuestionA {	
 	public static String sort(String s) {

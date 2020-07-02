@@ -1,4 +1,4 @@
-package ch01ArraysAndStrings.Q1_04_Palindrome_Permutation;
+package ch01ArraysAndStrings.Q01_04_Palindrome_Permutation;
 
 public class QuestionA {	
 	public static boolean checkMaxOneOdd(int[] table) {

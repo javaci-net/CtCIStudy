@@ -1,4 +1,4 @@
-package ch01ArraysAndStrings.Q1_08_Zero_Matrix;
+package ch01ArraysAndStrings.Q01_08_Zero_Matrix;
 
 import CtCILibrary.AssortedMethods;
 

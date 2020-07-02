@@ -33,8 +33,14 @@ LIST OF QUESTIONS:
 <p>
 	<ul>
 	  <li><a href="https://github.com/javaci-net/CtCIStudy/blob/master/src/ch01ArraysAndStrings/Q01_01_Is_Unique/Q01_01.md"> 01 Is Unique</a></li>
-	  <li><a href="https://github.com/javaci-net/CtCIStudy/blob/master/src/ch01ArraysAndStrings/Q1_02_Check_Permutation/Q01_02.md"> 02 Check Permutation</a></li>
-	  <li><a href="https://github.com/javaci-net/CtCIStudy/blob/master/src/ch01ArraysAndStrings/Q1_03_URLify/Q01_03.md"> 03 URLify</a></li>
+	  <li><a href="https://github.com/javaci-net/CtCIStudy/blob/master/src/ch01ArraysAndStrings/Q01_02_Check_Permutation/Q01_02.md"> 02 Check Permutation</a></li>
+	  <li><a href="https://github.com/javaci-net/CtCIStudy/blob/master/src/ch01ArraysAndStrings/Q01_03_URLify/Q01_03.md"> 03 URLify</a></li>
+	  <li><a href="https://github.com/javaci-net/CtCIStudy/blob/master/src/ch01ArraysAndStrings/Q01_"> 04 Palindrome Permutation</a></li>
+	  <li><a href="https://github.com/javaci-net/CtCIStudy/blob/master/src/ch01ArraysAndStrings/Q01_"> 05 One Away</a></li>
+	  <li><a href="https://github.com/javaci-net/CtCIStudy/blob/master/src/ch01ArraysAndStrings/Q01_"> 06 String Compression</a></li>
+	  <li><a href="https://github.com/javaci-net/CtCIStudy/blob/master/src/ch01ArraysAndStrings/Q01_"> 07 Rotate Matrix</a></li>
+	  <li><a href="https://github.com/javaci-net/CtCIStudy/blob/master/src/ch01ArraysAndStrings/Q01_"> 08 Zero Matrix</a></li>
+	  <li><a href="https://github.com/javaci-net/CtCIStudy/blob/master/src/ch01ArraysAndStrings/Q01_"> 09 String Rotation</a></li>
 	</ul>
 </p>
 </details>  

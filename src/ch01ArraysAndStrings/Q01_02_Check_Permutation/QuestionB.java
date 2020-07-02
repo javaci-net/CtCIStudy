@@ -1,4 +1,4 @@
-package ch01ArraysAndStrings.Q1_02_Check_Permutation;
+package ch01ArraysAndStrings.Q01_02_Check_Permutation;
 
 public class QuestionB {	
 	public static boolean permutation(String s, String t) {

@@ -1,4 +1,4 @@
-package ch01ArraysAndStrings.Q1_05_One_Away;
+package ch01ArraysAndStrings.Q01_05_One_Away;
 
 public class QuestionA {
 
